@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1714191471879' stop='1714191539712'>
+    <name>Sebagai pembeli, ketika saya mencari buku, saya ingin mengurutkannya berdasarkan dari harga terendah ke tertinggi agar saya bisa mendapatkan harga terbaik.</name>
+    <title>Sebagai pembeli, ketika saya mencari buku, saya ingin mengurutkannya berdasarkan dari harga terendah ke tertinggi agar saya bisa mendapatkan harga terbaik.</title>
+    <test-cases>
+        <test-case start='1714191471879' status='passed' stop='1714191493957'>
+            <name>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah Ke Tertinggi dari Menu Pencarian</name>
+            <title>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah Ke Tertinggi dari Menu Pencarian</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1714191494040' status='passed' stop='1714191512896'>
+            <name>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah Ke Tertinggi dari Rekomendasi Buku</name>
+            <title>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah Ke Tertinggi dari Rekomendasi Buku</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1714191512955' status='passed' stop='1714191539712'>
+            <name>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah ke Tertinggi dari Katergori Buku</name>
+            <title>Sebagai Pembeli Saya Dapat Mengurutkan Harga Buku Dari Terendah ke Tertinggi dari Katergori Buku</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

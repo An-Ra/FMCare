@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1714191305739' stop='1714191467051'>
+    <name>Sebagai pembeli, saya ingin bisa menandai buku yang saya inginkan agar ketika saya sudah mempunyai dananya saya bisa segera membeli buku tersebut</name>
+    <title>Sebagai pembeli, saya ingin bisa menandai buku yang saya inginkan agar ketika saya sudah mempunyai dananya saya bisa segera membeli buku tersebut</title>
+    <test-cases>
+        <test-case start='1714191305739' status='passed' stop='1714191343075'>
+            <name>Sebagai Pembeli Saya Dapat Menambahkan Buku Ke Keranjang dari Hasil Pencarian</name>
+            <title>Sebagai Pembeli Saya Dapat Menambahkan Buku Ke Keranjang dari Hasil Pencarian</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1714191343160' status='passed' stop='1714191377551'>
+            <name>Sebagai Pembeli Saya Dapat Menandai Buku dari Halaman Detail Buku</name>
+            <title>Sebagai Pembeli Saya Dapat Menandai Buku dari Halaman Detail Buku</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1714191377762' status='passed' stop='1714191425087'>
+            <name>Sebagai Pembeli Saya Dapat Menandai Buku dari Kategori Buku</name>
+            <title>Sebagai Pembeli Saya Dapat Menandai Buku dari Kategori Buku</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1714191425238' status='passed' stop='1714191467051'>
+            <name>Sebagai Pembeli Saya Dapat Menghapus Wish List</name>
+            <title>Sebagai Pembeli Saya Dapat Menghapus Wish List</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
